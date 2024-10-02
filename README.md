@@ -4,7 +4,6 @@
      I also design Animations and 3d Models using Sketchup and Blender.
 - 👀 I’m interested in GraphicsDesigning and SoftwareDevelopment
 - 🌱 I’m currently learning Hacking
-- 💞️ I’m looking to collaborate on Web development and Android Development
 - 📫 How to reach me?
 
     > by sending a email to my inbox ( keval.jignesh.shah+github@gmail.com )
