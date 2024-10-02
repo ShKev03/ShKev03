@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on Web development and Android Development
 - 📫 How to reach me?
 
-    > by emailing me on my email (i.e, keval.jignesh.shah+github@gmail.com)
+    > by sending a email to my inbox ( keval.jignesh.shah+github@gmail.com )
 
 Thankyou
 
