@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Keval Shah
 
-     >I'm FullStack Javascript and Python Developer and also a Student of class 10.
+     >I'm FullStack Javascript and Python Developer and also a Student of class 12.
      I also design Animations and 3d Models using Sketchup and Blender.
 - 👀 I’m interested in GraphicsDesigning and SoftwareDevelopment
 - 🌱 I’m currently learning Hacking
 - 💞️ I’m looking to collaborate on Web development and Android Development
 - 📫 How to reach me?
 
-    > by emailing me on my email (i.e, keval.jignesh.shah@gmail.com)
+    > by emailing me on my email (i.e, keval.jignesh.shah+github@gmail.com)
 
 Thankyou
 
